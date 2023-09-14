@@ -54,6 +54,7 @@ button:hover {
 .card .back {
   transition: all ease-in 0.2;
   transition-delay: 0.2s;
+  background-color: #c23866;
 }
 .flipped .back {
   transform: rotateY(90deg);
