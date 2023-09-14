@@ -12,7 +12,7 @@ const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
         <img
           onClick={handleClick}
           className="back"
-          src="/src/assets/pati.png"
+          src="/public/pati.png"
           alt="card back"
         />
       </div>
