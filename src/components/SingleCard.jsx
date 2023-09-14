@@ -1,3 +1,5 @@
+import pati from "/public/pati.png";
+
 const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
   const handleClick = () => {
     if (!disabled) {
@@ -12,7 +14,7 @@ const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
         <img
           onClick={handleClick}
           className="back"
-          src="/public/pati.png"
+          src={pati}
           alt="card back"
         />
       </div>
