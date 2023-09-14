@@ -1,4 +1,4 @@
-import pati from "/public/pati.png";
+import pati from "/src/pati.png";
 
 const SingleCard = ({ card, handleChoice, flipped, disabled }) => {
   const handleClick = () => {
