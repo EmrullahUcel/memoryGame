@@ -3,10 +3,10 @@ import "./App.css";
 import SingleCard from "./components/SingleCard";
 
 const images = [
-  { src: "berrin.jpg", matched: false },
-  { src: "cukulatam.jpg", matched: false },
-  { src: "eylem.jpg", matched: false },
-  { src: "feyza.jpg", matched: false },
+  { src: "cat_1.png", matched: false },
+  { src: "cat_2.png", matched: false },
+  { src: "cat_3.png", matched: false },
+  { src: "cat_4.png", matched: false },
 ];
 
 const App = () => {
