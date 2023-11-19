@@ -1,4 +1,4 @@
-Memory Game✨
+Memory Game✨<br/>
 This project is a memory developed using React. The aim of the game is to allow users to have fun by using their memory to retain card cards.
 
 Built With✨
