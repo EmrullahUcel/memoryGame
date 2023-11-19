@@ -1,6 +1,6 @@
 
 <b>Memory Game</b>✨<br/>
-<img src="memoryGame.png">
+<img src="/src/assests/memoryGame.png">
 <i>
 This project is a memory developed using React. The aim of the game is to allow users to have fun by using their memory to retain card cards.
 </i>
