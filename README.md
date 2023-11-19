@@ -15,5 +15,5 @@ After cloning the project to your computer, you must open it in Visual Studio Co
 localhost:3000 by saying npm run dev .
 
 <b>Live✨</b><br/>
-<a>memory-game-phi-navy.vercel.app</a>
+<i>https://memory-game-phi-navy.vercel.app</i>
 
