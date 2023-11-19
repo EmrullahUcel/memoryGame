@@ -1,5 +1,5 @@
 Memory Game✨<br/>
-<i>This project is a memory developed using React. The aim of the game is to allow users to have fun by using their memory to retain card cards.<i/>
+This project is a memory developed using React. The aim of the game is to allow users to have fun by using their memory to retain card cards.
 
 Built With✨<br/>
 I used React.js and Tailwind CSS for this project.
@@ -12,4 +12,4 @@ After cloning the project to your computer, you must open it in Visual Studio Co
 localhost:3000 by saying npm run dev .
 
 Live✨<br/>
-memory-game-phi-navy.vercel.app
+<a>memory-game-phi-navy.vercel.app<a/>
