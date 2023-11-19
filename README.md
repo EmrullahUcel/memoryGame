@@ -1,8 +1,15 @@
-# React + Vite
+Memory Game✨
+This project is a memory developed using React. The aim of the game is to allow users to have fun by using their memory to retain card cards.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built With✨
+I used React.js and Tailwind CSS for this project.
 
-Currently, two official plugins are available:
+Installation✨
+git clone https://github.com/EmrullahUcel/memoryGame
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Usage✨
+After cloning the project to your computer, you must open it in Visual Studio Code. You can open the project in
+localhost:3000 by saying npm run dev .
+
+Live✨
+memory-game-phi-navy.vercel.app
